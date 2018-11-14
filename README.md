@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/unlabeledData/unlabeledData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +36,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+=======
+# HuxBlog Boilerplate
+
+##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+
+#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+
+#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+
+## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+>>>>>>> 1b2d52ca84278e05a3ae26bfcbfd35caabe56d21
