@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-theme: jekyll-theme-slate
-=======
 # Site settings
-title: unlabeledData Blog
-SEOTitle: unlabeledData | A Robot
+title: Your Blog
+SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: xxxxx@gmail.com
+email: huxpro@gmail.com
 description: ""
 keyword: ""
 url: "http://huangxuan.me"              # your host, for absolute URL
@@ -101,4 +98,3 @@ friends: [
         href: "#"
     }
 ]
->>>>>>> 1b2d52ca84278e05a3ae26bfcbfd35caabe56d21
